@@ -1,0 +1,10 @@
+.ad-auris-iframe {
+    width: 100% !important;
+    height: 250px !important;
+    border: none !important;
+    background-color: transparent;
+
+}
+
+/* <iframe id="ad-auris-iframe" style="width: 100%; height: 250px; border: none; display: none;" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" data-org="33162704bc7870af0b5a63b37e863f0c.d5bc16"></iframe>
+<script src="https://cdn.jsdelivr.net/npm/ad-auris-distribution@latest/script.js"></script> */
